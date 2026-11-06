@@ -1,11 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/Eng-Ahmed-Abde-Zaher2024/IslamicShare/releases/download/v1.1.2/islamic_share-1.1.2.apk",
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "apkUrl": "https://github.com/Eng-Ahmed-Abde-Zaher2024/IslamicShare/releases/download/v1.1.3/islamic_share-1.1.3.apk",
   "notes": [
-    "بروفايل المطوّر الاحترافي: مطوّر ويب ومقدّم حلول برمجية.",
-    "مهارات وخدمات جديدة داخل شاشة «عن المطوّر».",
-    "صورة المطوّر الحقيقية في التطبيق والصفحة.",
+    "صياغة احترافية للبروفايل المهني داخل شاشة «عن المطوّر».",
     "تحسينات في الأداء والاستقرار."
   ],
   "mandatory": false
