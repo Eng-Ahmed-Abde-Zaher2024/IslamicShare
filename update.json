@@ -1,9 +1,11 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/Eng-Ahmed-Abde-Zaher2024/IslamicShare/releases/download/v1.1.3/islamic_share-1.1.3.apk",
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/Eng-Ahmed-Abde-Zaher2024/IslamicShare/releases/download/v1.1.4/islamic_share-1.1.4.apk",
   "notes": [
-    "صياغة احترافية للبروفايل المهني داخل شاشة «عن المطوّر».",
+    "شاشة افتتاح جديدة «المشكاة»: ألوان التطبيق مع سورة الإخلاص بآيات مرقّمة.",
+    "مصغّرات حقيقية للفيديوهات وأغلفة للصوت + مدة كل ملف.",
+    "صياغة احترافية لبروفايل المطوّر.",
     "تحسينات في الأداء والاستقرار."
   ],
   "mandatory": false
